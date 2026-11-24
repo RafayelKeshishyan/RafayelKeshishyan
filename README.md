@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m studying Computer Science at UCI<br>🔎 I’m actively seeking internship opportunities<br>👯 I’m looking to collaborate on SWE projects<br>⚡ Fun fact: I play guitar 🎸
+🌱 I’m studying Computer Science at UCI<br>🔎 I’m actively seeking new grad opportunities<br>👯 I’m looking to collaborate on SWE projects<br>⚡ Fun fact: I play guitar 🎸
 
 
 ## 🌐 Socials:
